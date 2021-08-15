@@ -1,5 +1,11 @@
 @media only screen and (max-width: 600px) {
   body {
+    height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #2987e4 50%,
+        #000000 50%
+    );
   }
 }
 
